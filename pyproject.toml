@@ -1,0 +1,18 @@
+[project]
+name = "audioclassify"
+version = "0.1.0"
+description = "A Python project for audio classification using Tensorflow, Keras, Pytorch, Librosa, and visualization tools."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kaggle>=1.7.4.5",
+    "kagglehub>=0.3.12",
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.3",
+    "numpy>=2.1.3",
+    "pandas>=2.3.0",
+    "seaborn>=0.13.2",
+    "torch>=2.7.1",
+    "torchaudio>=2.7.1",
+]
+

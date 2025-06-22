@@ -1,0 +1,11 @@
+tensorflow
+keras
+torch
+torchaudio
+librosa
+matplotlib
+seaborn
+numpy
+pandas
+kaggle
+kagglehub
