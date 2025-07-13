@@ -10,3 +10,4 @@ pandas
 kaggle
 kagglehub
 ipywidgets
+python-dotenv
