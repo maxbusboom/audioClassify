@@ -2,6 +2,8 @@ tensorflow
 keras
 torch
 torchaudio
+torchvision
+
 librosa
 matplotlib
 seaborn
@@ -11,3 +13,4 @@ kaggle
 kagglehub
 ipywidgets
 python-dotenv
+resampy
